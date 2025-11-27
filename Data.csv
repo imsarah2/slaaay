@@ -1,4 +1,4 @@
-Enzyme activity (UI/ml),Temperature (°C)
-25,30
-30,35
-22,40
+Enzyme activity (UI/ml),Temperature (°C),Ph
+25,30,3
+30,35,7
+22,40,12
